@@ -1,0 +1,11 @@
+name: OGT_prediction_code
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipykernel
+  - pandas
+  - matplotlib
+  - seaborn
+  - biopython
+  - scikit-learn
