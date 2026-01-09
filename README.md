@@ -14,9 +14,9 @@ conda env create -f env/environment.yml
 
 CSV files calculated in this study are located in the `/data/csv/` directory:
 
-- `calculated_features_archaea.csv`: Genomic features of archaea.
-- `calculated_features_bacteria.csv`: Genomic features of bacteria.
-- `gene_count.csv`: The Number of each gene for each bacterial species.
+- `calculated_features_archaea.csv.zip`: Genomic features of archaea.
+- `calculated_features_bacteria.csv.zip`: Genomic features of bacteria.
+- `gene_count.csv.zip`: The Number of each gene for each bacterial species.
 - `OGT.csv`: Optimum growth temperature data for both bacteria and archaea.
 - `bac_asr.csv`: Ancestral OGT of most recent common ancestor of the genus (can be created by calc_ancestral_OGT.ipynb)
 
